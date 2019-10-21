@@ -4,8 +4,7 @@ Training to introduce cloud and containers
 
 # Logistics
 
-* Location: EMBL, Heidelberg, Germany
-* Dates: October 28-30, 2019
+**UPDATE: this training is postponed to early 2020**
 
 # Audience
 
@@ -39,3 +38,10 @@ this is a draft list to collect potential names, that has not necessarily been v
 * Marco Antonio Tangaro
 * Björn Grüning
 * de.NBI cloud team ?
+
+## Organizing Committee
+
+* Gabriella Rustici
+* Carole Goble
+* Björn Grüning
+* Frederik Coppens
